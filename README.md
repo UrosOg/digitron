@@ -1,2 +1,2 @@
 # digitron
-wep forme
+web forme
